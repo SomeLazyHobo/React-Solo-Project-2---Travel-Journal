@@ -1,5 +1,10 @@
 # cod5b4007bed0e00c54ac4222
 
+My second project built using React.JS- A basic static page travel journal for the place's I've been to so far in my life. Learned how to use and implement props for the first time to create reusable components including using .map to combine my data together into a single object for further code consistency. Styled with CSS with the help of the original Figma design. 
+
+
+
+
 Quick start:
 
 ```
